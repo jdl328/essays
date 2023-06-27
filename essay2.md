@@ -11,3 +11,13 @@ Click on the text below to trigger an image `zoom to` action.
 - ==A close-up of the John P Morris' racial classification=={410,180,100,100}
 - ==John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
+
+
+
+### Turning Workers to Data
+.ve-media gh:jdl328/media/texas es.jpeg%3Fraw=true right
+*How exactly did the USES turn workers into data?*
+Typically job seekers would visit their local USES office and say that they are looking for work. An employment counselor would interview them. The goal of the interview was to collect key information about their work history, skills, and other relevant experiences. This information would be recorded on the data card.
+
+
+
