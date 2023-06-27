@@ -1,10 +1,12 @@
-# Hello, Juncture 
+# Hello, Juncture
 
-This Juncture essay was created by Jason Ludwig. It illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay. Use [Juncture Editor](https://www.juncture-digital.org/) to create more essays.
+This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 ## Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg right
+
+.ve-media wc:- gh:jdl328/media/card1.png
 
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
