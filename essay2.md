@@ -8,6 +8,6 @@ The Employment Service established offices in cities around the country. These w
 This is what a completed card looked like. Here is a card for one John P. Morrris. Employment counselors  referred to the data card as “word picture” of the applicant. It was intended to provide a potential employer with all the relevant information about the applicant
 
 Click on the text below to trigger an image `zoom to` action.
-- ==A close-up of the John P Morris' racial classification=={1131,639,1358,904}
-- ==John P. Morris's worker code=={1229,2533,928,618}
+- ==A close-up of the John P Morris' racial classification=={410,180,100,100}
+- ==John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
