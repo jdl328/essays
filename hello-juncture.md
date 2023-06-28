@@ -28,10 +28,9 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 ### Places {.cards}
 
-#### Ancient Lavatory {href=https://www.juncture-digital.org/jdl328/essays/essay2}
+#### The Applicant Data Card: A History {href=https://www.juncture-digital.org/jdl328/essays/essay2}
 
 
 ![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
 
-The ancient lavatory at Canterbury Cathedral where the monks washed before and after eating.
-
+How Data made the Employment Service
