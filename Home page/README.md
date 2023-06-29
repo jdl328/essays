@@ -1,6 +1,6 @@
 # Home page
 # The Data of Difference
-Welcome to the data of *Difference/ The Difference of Data, *A digital history of personal data by Jason Ludwig.
+Welcome to the *Data of Difference/ The Difference of Data, *A digital history of personal data by Jason Ludwig.
 
 
 ### Essays {.cards}
