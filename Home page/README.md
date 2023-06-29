@@ -1,13 +1,13 @@
 # Home page
+# The Data of Difference
+Welcome to the data of Difference/ The Difference of Data, A digital history of personal data by Jason Ludwig
 
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
-<body>
 
-<!-- Content will go here -->
+### Essays {.cards}
 
-</body>
-</html>
+#### The Applicant Data Card: A History (1930-1965) {href=https://www.juncture-digital.org/jdl328/essays/essay2}
+
+
+![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
+
+How Data made the Employment Service
