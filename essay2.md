@@ -1,4 +1,4 @@
-.ve-header "The Data of Difference/The Difference of Data" background=LightCoral
+.ve-header "The Applicant Data Card: A history" background=LightCoral
 
 
 .ve-media gh:jdl328/media/card1.png%3Fraw=true right
