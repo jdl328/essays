@@ -1,7 +1,7 @@
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
 
-.ve-media gh:jdl328/media/card1.png%3Fraw=true right
+.ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris' Applicant Data Card"
 This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
 
 
