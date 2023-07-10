@@ -1,7 +1,6 @@
 # Coding Workers
 
-
-.ve-media gh:jdl328/essays/Coding Workers/Clinton Card.png%3Fraw=true
+.ve-media gh:jdl328/essays/Coding Workers/ClintonCard.png%3Fraw=true
 
 One of the most important categories included on the data card was the worker classification code. In this 1957 card, the code was made of three 
 numbers. 
