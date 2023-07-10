@@ -6,6 +6,8 @@ One of the most important categories included on the data card was the worker cl
 
 These contains were meant to provided more information than simply which jobs the applicant had held in the past. The Employment Service's job analysis division had created a code for every single kind of job United States, which were compiled in a manual titled *The Dictionary of Occupational Titles* (DOT). The DOT code for each job bore information pertaining to the  the kinds of skills someone with experience in that profession would be expected to have
 
+These contains were meant to provided more information than simply which jobs the applicant had held in the past. The Employment Service's job analysis division had created a code for every single kind of job United States, which were compiled in a manual titled *The Dictionary of Occupational Titles* (DOT). The DOT code for each job bore information pertaining to the  the kinds of skills someone with experience in that profession would be expected to have
+
 
 .ve-media gh:jdl328/essays/CodingWorkers/DOT.jpg%3Fraw=true right
 
