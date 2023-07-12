@@ -4,7 +4,9 @@
 
 One of the most important categories included on the data card was the worker classification code. In the 1957 card to the right, these codes were recorded in the - ==upper right corner of the card=={487,123,400,400}. We can see that Howard Clinton had previously worked worked as Advertising Salesman and a copywriter.
 
-These contains were meant to provided more information than simply which jobs the applicant had held in the past. The Employment Service's job analysis division had created a code for every single kind of job United States, which were compiled in a manual titled *The Dictionary of Occupational Titles* (DOT). The DOT code for each job bore information pertaining to the  the kinds of skills someone with experience in that profession would be expected to have
+These codes contained more information than simply which jobs the applicant had held in the past. The Occupational Analysis Division of the Employment Service had created a code for every single kind of job United States, which were compiled in a manual titled *The Dictionary of Occupational Titles* (DOT). The DOT code for each job bore information pertaining to the kinds of skills someone with experience in that profession would be expected to have.
+
+For example, looking at the second edition of the Dictionary (from 1949), 
 
 These contains were meant to provided more information than simply which jobs the applicant had held in the past. The Employment Service's job analysis division had created a code for every single kind of job United States, which were compiled in a manual titled *The Dictionary of Occupational Titles* (DOT). The DOT code for each job bore information pertaining to the  the kinds of skills someone with experience in that profession would be expected to have
 
