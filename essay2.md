@@ -22,9 +22,8 @@ To the right is a data card describing one John P. Morrris. Below are cards that
 - == Click here for John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
 
-.ve-media grid
-    - gh:jdl328/dataofdifference/essay2/Travis_card.png
-    - gh:jdl328/dataofdifference/essay2/Gorski_card.png
+.ve-media gh:jdl328/dataofdifference/essay2/Travis_card.png%3Fraw=true right  caption="John C. Travis's applicant data card"
+.ve-media gh:jdl328/dataofdifference/essay2/Gorski_card.png%3Fraw=true left  caption="Peter Gorski's" applicant data card"
     
 ##  Coding the worker 
 .ve-media gh:jdl328/media/texases.jpeg%3Fraw=true right caption="A counselor at a Texas State Employment Service office records  worker data on an applicant card (1940)"
