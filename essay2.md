@@ -22,17 +22,24 @@ To the right is a data card describing one John P. Morrris. Below are cards that
 - == Click here for John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
 
+.ve-media gh:jdl328/dataofdifference/essay2/Gorski_card.png%3Fraw=true left  caption="Peter Gorski's' applicant data card"
 .ve-media gh:jdl328/dataofdifference/essay2/Travis_card.png%3Fraw=true right  caption="John C. Travis's applicant data card"
-.ve-media gh:jdl328/dataofdifference/essay2/Gorski_card.png%3Fraw=true left  caption="Peter Gorski's" applicant data card"
+
     
 ##  Coding the worker 
 .ve-media gh:jdl328/media/texases.jpeg%3Fraw=true right caption="A counselor at a Texas State Employment Service office records  worker data on an applicant card (1940)"
 
 How exactly did the USES turn workers into data? Typically job seekers would visit their local USES office and say that they were looking for work. An employment counselor would interview them. The goal of the interview was to collect key information about their work history, skills, and other relevant experiences. This information would be recorded on the data card. Training guide for employment counselors emphasized that the data card should serve as a “word picture” of the applicant. It was intended to provide a potential employer with all the relevant information they might need to know about the individual applying for the job.
 
-The kinds of information included on these cards, and which job applicants were asked to provided to counselors, changed over time as new technological systems, institutional imperatives, and sciences of work took hold within the USES. One of the most important changes that occurred within the USES was the adoption of computers to record and store data and to automate the work of matching applicants to jobs.
+The kinds of information included on these cards, and which job applicants were asked to provided to counselors, changed over time as new technological systems, institutional imperatives, and sciences of work took hold within the USES. One of the most important changes that occurred within the USES was the adoption of computers to record and store data and to automate the work of matching applicants to jobs. The USES took up computing amidst a widespread enthusiasm for new information technologies to eliminate human bias from the work of governance. The appeal of computational objectivity” led government officials to plan computerized identification systems across various arms of American bureaucracy after World War II. 
 
 .ve-media https://iiif.archivelab.org/iiif/20230404-150612/manifest.json right caption="A counselor at a Utah State Employment Service office keys in worker characteristics to a computer terminal during an applicant interview (1974)"
+
+In 1969, technology consultant and social scientist Gordon Davies articulated the core dilemma of these projects: how exactly should government agencies “describe men to machines”?  The success of government computers systems, he argued, depended on the kinds of descriptors that human programmers built into them to classify American citizens. To manage the complex social problems of the postwar period, these classification systems needed to be specific enough to match citizens of diverse needs and backgrounds with appropriate government services, while also avoiding the reproduction of the very inequalities they were intended to address.
+
+The case of computing in the USES can serve as entryway into understanding the co-constitution of race, computation, and social power in the postwar United States. How government did government officials, computing experts, and racial justice activists reconcile a vision of bias-free computerized governance with the altogether human work of developing descriptive systems to identify, enumerate, and classify diverse citizens?
+
+
 
 
 
